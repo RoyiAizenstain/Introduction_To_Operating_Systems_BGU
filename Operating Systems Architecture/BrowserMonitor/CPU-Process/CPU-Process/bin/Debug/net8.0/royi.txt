@@ -1,8 +1,0 @@
-
-C:\Users\u2\source\repos\CPU-Process\CPU-Process\bin\Debug\net8.0>start CPU-Process.exe 1 
-
-C:\Users\u2\source\repos\CPU-Process\CPU-Process\bin\Debug\net8.0>start CPU-Process.exe 1 
-
-C:\Users\u2\source\repos\CPU-Process\CPU-Process\bin\Debug\net8.0>start CPU-Process.exe 1 
-
-C:\Users\u2\source\repos\CPU-Process\CPU-Process\bin\Debug\net8.0>start CPU-Process.exe 1 
