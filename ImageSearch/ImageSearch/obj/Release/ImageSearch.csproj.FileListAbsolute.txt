@@ -1,7 +1,0 @@
-C:\Users\home\source\repos\ImageSearch\ImageSearch\bin\Release\ImageSearch.exe.config
-C:\Users\home\source\repos\ImageSearch\ImageSearch\bin\Release\ImageSearch.exe
-C:\Users\home\source\repos\ImageSearch\ImageSearch\bin\Release\ImageSearch.pdb
-C:\Users\home\source\repos\ImageSearch\ImageSearch\obj\Release\ImageSearch.csproj.AssemblyReference.cache
-C:\Users\home\source\repos\ImageSearch\ImageSearch\obj\Release\ImageSearch.csproj.CoreCompileInputs.cache
-C:\Users\home\source\repos\ImageSearch\ImageSearch\obj\Release\ImageSearch.exe
-C:\Users\home\source\repos\ImageSearch\ImageSearch\obj\Release\ImageSearch.pdb
